@@ -1,24 +1,41 @@
-# README
+# First Rails Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+  ## Description
 
-Things you may want to cover:
+  This application will contain code for my first rails application. I will use this mainly as a way to test my new skills.
 
-* Ruby version
+  ## Table of Contents
 
-* System dependencies
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributors](#contributors)
+  * [Questions](#questions?)
+  * [Tests](#tests)
 
-* Configuration
+  ## Installation
 
-* Database creation
+  No Installation needed
 
-* Database initialization
+  ## Usage
 
-* How to run the test suite
+  This is mainly for personal use.
 
-* Services (job queues, cache servers, search engines, etc.)
+  ## License
 
-* Deployment instructions
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-* ...
+  ## Contributors
+
+  N/A
+
+  ## Questions?
+  Follow me on Github
+  [wmccone](https://github.com/wmccone) 
+  or 
+  email me at gerrymccone88@gmail.com
+
+  ## Tests
+
+  N/A
+
