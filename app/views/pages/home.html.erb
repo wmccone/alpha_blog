@@ -1,9 +1,18 @@
 <main class="containter">
   <div class="card m-4 p-4 text-center text-white" id="jumbo">
-    <h1>This is the Home Page</h1>
+    <h1 class="display-4">Alpha Blog</h1>
+    <p class="lead"> Welcome to Aplpha Blog, this is a test app used for educational purposes.</p>
+    <hr class="my-4">
+    <div class="container m-4">
+    <p> Click the link below to create an account</p>
+    <a class="btn btn-success btn-lg" href="#" role="button">Sign up</a>
+    </div>
 
-    <%= link_to 'View All Articles', articles_path %>
-
-    <%= link_to 'About Page', about_path %>
   </div>
 </main>
+
+<footer class="footer bg-dark text-white">
+      <div class="container text-center">
+        <span class="text-muted">Copyright &copy; <%= link_to "Walter McCone", "#", class: "text-white" %> </span>
+      </div>
+</footer>
