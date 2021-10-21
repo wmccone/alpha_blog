@@ -15,7 +15,7 @@
 
   ## Installation
 
-  No Installation needed
+  The website is [deployed on heroku](https://wmccone-alpha-blog.herokuapp.com/).
 
   ## Usage
 
